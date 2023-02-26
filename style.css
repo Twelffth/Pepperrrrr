@@ -1,0 +1,32 @@
+
+h3 {
+font-size: 40px;
+font-weight: 600;
+
+}
+body {
+    font-family: 'Inconsolata';
+
+    text-align: center;
+    background-color: #f6f6f6;
+}
+
+canvas {
+    background-image: url("pizza.png");
+    background-size: cover;
+}
+
+#button {
+    width: 80px;
+    border-radius: 3px;
+    background-color: #958b85;
+    color: #ffffff;
+    border-color: #9c8b8165;
+ box-shadow: 5px 5px 0px #544f4c8c;
+    height: 32px;
+    font-size: 15px;
+    font-family: 'Josefin Slab', serif;
+    letter-spacing: 2px;
+    font-weight: 600;
+    
+    }
